@@ -28,12 +28,12 @@ A full-stack chat application that integrates OpenAI's GPT API to provide an int
 ## Tech Stack
 
 ### Frontend
-- **React** ^19.2.0 - UI library
-- **Vite** ^7.2.4 - Build tool and dev server
-- **React Markdown** ^10.1.0 - Markdown rendering
-- **React Spinners** ^0.17.0 - Loading indicators
-- **Rehype Highlight** ^7.0.2 - Code syntax highlighting
-- **UUID** ^13.0.0 - Unique identifier generation
+- **React**  - UI library
+- **Vite** - Build tool and dev server
+- **React Markdown**  - Markdown rendering
+- **React Spinners** - Loading indicators
+- **Rehype Highlight** - Code syntax highlighting
+- **UUID** - Unique identifier generation
 
 ### Languages
 - JavaScript
